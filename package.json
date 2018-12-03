@@ -1,0 +1,22 @@
+{
+  "name": "cryptogazer",
+  "version": "0.0.0",
+  "description": "An app for tracking info related to cryptocurrencies",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^30.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "axios": "^0.16.2",
+    "react-native-elements": "0.19.1",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-logger": "3.0.6",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0",
+    "remote-redux-devtools": "0.5.13"
+  }
+}
